@@ -1,3 +1,6 @@
 # carsljr_app_davidleal
 
-A new Flutter project.
+Ejecutar con el comando: flutter run
+
+LIBRERIAS
+- url_launcher: ^6.2.6    (Url Links)
